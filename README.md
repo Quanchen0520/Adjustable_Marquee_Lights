@@ -1,1 +1,5 @@
 # Adjustable_Marquee_Lights
+
+可變電阻調整移動速度的伸縮燈
+
+Adjustable_Marquee_Lights
